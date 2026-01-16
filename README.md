@@ -31,6 +31,20 @@ Backend powered by SQL Server
 
 🛠️ Technologies Used
 Frontend: HTML, CSS, JavaScript
+
 Backend: ASP.NET Web Forms, C#
+
 Database: SQL Server
+
 IDE: Visual Studio
+
+📌 Future Enhancements
+
+Email notifications
+Role-based authorization using ASP.NET Membership
+Improved UI with Bootstrap
+API integration
+
+👤 Author
+Dhruv Parmar
+ASP.NET Developer | IoT Enthusiast
